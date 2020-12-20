@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 14px;
+    font-family: "Century Gothic","Microsoft yahei";
+    color: #323232;
+}
